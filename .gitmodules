@@ -1,0 +1,3 @@
+[submodule "themes/nostyleplease"]
+	path = themes/nostyleplease
+	url = https://github.com/dxyz004/theme.git
