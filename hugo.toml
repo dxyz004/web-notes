@@ -1,4 +1,4 @@
-baseURL = "https://danielsnotes.net/blog/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = ""
 theme = "nostyleplease"
