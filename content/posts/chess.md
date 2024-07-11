@@ -10,7 +10,7 @@ draft = false
 I've developed a web app where you can play chess against cyberpunk-inspired computer opponents.
 
 The code is available here: 
-[Cyberpunk Chess repo](https://github.com/dxyz004/neon-knight-64)
+[Cyberpunk Chess repo](https://github.com/dxyz004/cc-testing-magenta)
 
 And is hosted to play online at: 
 [Cyberpunk Chess](https://cyberpunk-chess.vercel.app/)
